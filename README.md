@@ -15,7 +15,7 @@ The reproducibility package is contained in the Docker image [thomasdwright/fmi-
 
 In order to run this you will need a working [Docker client](https://docs.docker.com/desktop/) installed.
 
-Then you can run the package via the terminal command ``podman run -p 8888:8888 thomasdwright/fmi-reachability:1.00``.
+Then you can run the package via the terminal command ``docker run -p 8888:8888 thomasdwright/fmi-reachability:1.00``.
 
 This will first download the image (this may take a while) and then launch a Jupyter lab server instance. You can then access this server in your web browser by opening the link provided in the command output:
 ![Image with Jupyter lab link](./images/jupyter-link.png)
