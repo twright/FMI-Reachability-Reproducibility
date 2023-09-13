@@ -21,7 +21,7 @@ This will first download the image (this may take a while) and then launch a Jup
 ![Image with Jupyter lab link](./images/jupyter-link.png)
 
 This should open a web browser containing a Jupyter lab instance with the environment for the reproducibility package:
-![Jupyter lab browser page](./images/jupyter-link.png)
+![Jupyter lab browser page](./images/jupyter-lab.png)
 
 You should use this to open the ``Reproducibility.ipynb`` notebook (displayed on the left hand panel), which contains the main reproducibility package:
 ![Jupyter reproducibility package notebook](./images/jupyter-notebook.png)
