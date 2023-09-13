@@ -11,7 +11,7 @@ The main contents of this repository are:
 
 ## Instructions
 
-The reproducibility package is contained in the Docker image [thomasdwright/fmi-reachability/](https://hub.docker.com/repository/docker/thomasdwright/fmi-reachability/). This contains all of the code from this repository, as well as additional dependencies making it easy to run the reproducibility package your own system.
+The reproducibility package is contained in the Docker image [thomasdwright/fmi-reachability](https://hub.docker.com/repository/docker/thomasdwright/fmi-reachability/). This contains all of the code from this repository, as well as additional dependencies making it easy to run the reproducibility package on your own system.
 
 In order to run this you will need a working [Docker client](https://docs.docker.com/desktop/) installed.
 
